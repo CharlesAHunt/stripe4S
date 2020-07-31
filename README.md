@@ -1,8 +1,8 @@
 # stripe4S
 
-[![Latest version](https://index.scala-lang.org/charlesahunt/proteus/proteus/latest.svg)](https://index.scala-lang.org/charlesahunt/stripe4s)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.charlesahunt/proteus_2.13/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.charlesahunt/stripe4s_2.13)
-[![Proteus](https://circleci.com/gh/CharlesAHunt/stripe4s.svg?style=svg)](https://circleci.com/gh/CharlesAHunt/stripe4s)
+[![Latest version](https://index.scala-lang.org/charlesahunt/stripe4s/stripe4s/latest.svg)](https://index.scala-lang.org/charlesahunt/stripe4s)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.charlesahunt/stripe4s_2.13/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.charlesahunt/stripe4s_2.13)
+[![Stripe4S](https://circleci.com/gh/CharlesAHunt/stripe4s.svg?style=svg)](https://circleci.com/gh/CharlesAHunt/stripe4s)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/be829fed3c134f8cbf14c60290651d63)](https://www.codacy.com/app/charlesahunt/stripe4s?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=charlesahunt/stripe4s&amp;utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/be829fed3c134f8cbf14c60290651d63)](https://www.codacy.com/app/charlesahunt/stripe4s?utm_source=github.com&utm_medium=referral&utm_content=charlesahunt/stripe4s&utm_campaign=Badge_Coverage)
 
